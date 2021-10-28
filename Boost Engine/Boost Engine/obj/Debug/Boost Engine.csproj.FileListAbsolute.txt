@@ -1,0 +1,13 @@
+D:\viperl\Boost Engine\Boost Engine\obj\Debug\Boost Engine.csproj.AssemblyReference.cache
+D:\viperl\Boost Engine\Boost Engine\obj\Debug\Boost_Engine.EngineWindow.resources
+D:\viperl\Boost Engine\Boost Engine\obj\Debug\Boost_Engine.Properties.Resources.resources
+D:\viperl\Boost Engine\Boost Engine\obj\Debug\Boost Engine.csproj.GenerateResource.cache
+D:\viperl\Boost Engine\Boost Engine\obj\Debug\Boost Engine.csproj.CoreCompileInputs.cache
+D:\viperl\Boost Engine\Boost Engine\bin\Debug\Boost Engine.exe.config
+D:\viperl\Boost Engine\Boost Engine\bin\Debug\Boost Engine.exe
+D:\viperl\Boost Engine\Boost Engine\bin\Debug\Boost Engine.pdb
+D:\viperl\Boost Engine\Boost Engine\obj\Debug\Boost Engine.exe
+D:\viperl\Boost Engine\Boost Engine\obj\Debug\Boost Engine.pdb
+D:\viperl\Boost Engine\Boost Engine\obj\Debug\Boost_Engine.Engine.UI.HUD.Boost.resources
+D:\viperl\Boost Engine\Boost Engine\obj\Debug\Boost_Engine.Engine.UI.StartMenu.resources
+D:\viperl\Boost Engine\Boost Engine\obj\Debug\Boost_Engine.Engine.UI.HUD.GoalPost.GoalPostWindow.resources
