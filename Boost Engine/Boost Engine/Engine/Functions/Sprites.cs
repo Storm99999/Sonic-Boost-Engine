@@ -67,21 +67,14 @@ namespace Boost_Engine.Engine.Functions
             playerBox.Image = Resources.SM_Sonic_Idle;
         }
 
-        public static async Task JumpBallSprite(PictureBox playerBox, PictureBox floor, PictureBox allFloors1)
+         public static async Task JumpBallSprite(PictureBox playerBox, PictureBox floor, PictureBox allFloors1)
         {
             playerBox.Top += -5;
             playerBox.Image = Resources.S_Sonic_Jump;
             await Task.Delay(1300);
             playerBox.Top -= -5;
             await Task.Delay(1400);
-            if (playerBox.Bounds.IntersectsWith(allFloors1.Bounds))
-            {
-                playerBox.Top = allFloors1.Top - playerBox.Height;
-            }
-            else
-            {
-                playerBox.Top = floor.Top - playerBox.Height;
-            }
+
         }
 
         public static void BoostSprite(PictureBox playerBox)
